@@ -1,11 +1,32 @@
 # Aggiornamenti Valmatic
 
-Oggi ci è venuto a trovare il carissimo Signor Fanciulli, detto ciò proseguiremo nel seguente modo:
+Oggi ci è venuto a trovare il carissimo Signor Fanciulli, e abbiamo stabilito i seguenti punti per i prossimi sviluppi:
 
->1. Prossima settimana arriverà un tecnico a nostra disposizione per configurare il sistema di pagamento (gettoni, vedi prossimo punto) e per capire come impostare bene i rulli e la macchinetta in generale  
+### 1. Configurazione del sistema di pagamento
 
->2. Per la gestione dei pagamenti sarà necessario l'utilizzo di gettoni speciali (tipo delle monete in metallo) che la macchinetta può accettare al posto dei soldi, una sorta di TOKEN. Per ovviare al problema fiscale del concetto di offerta all'interno di una cooperativa, una volta che un cliente vuole comprare dei token, gli verranno dati tot token in base agli euro che ci da [5 euro = 5 token] MA dobbiamo aggiungere un gadget da dare assieme a questi token, altrimenti lo scambio euro-token risulta come una transazione vera e propria. Dando un gadget assieme risolviamo questo problema (OVVIAMENTE il gadget non deve essere qualcosa di troppo costoso). PLUS bisogna valutare se aggiungere la possibilità di acquistare i token con carta (donazione PayPal? e poi uno di noi gira per le classi a consegnare il token fisico)
+La prossima settimana arriverà un tecnico per configurare il sistema di pagamento. Sarà responsabile di impostare i rulli e la macchinetta in generale.
 
->3. Per la prossima settimana invece dobbiamo fare due cose:
->- Creare una carta intestata con tutte le info dell'azienda, e una sorta di presentazione personale
->- Fare una foto agli scomparti nella sezione dei rulli, e iniziare a predisporre gli oggetti da inserire all'interno. Fare una sorta di schema dove indichiamo QUALI e COME inseriamo gli oggetti.
+### 2. Gestione dei pagamenti tramite token
+
+Per gestire i pagamenti, utilizzeremo dei gettoni speciali, simili a delle monete in metallo, che la macchinetta accetterà al posto dei soldi.
+
+- Quando un cliente desidera acquistare dei token, verranno dati tot token in base agli euro che ci dà [5 euro = 5 token].
+- Per evitare problemi fiscali, forniremo un gadget insieme ai token, in modo che lo scambio euro-token non sia considerato come una transazione vera e propria. Il gadget non deve essere troppo costoso.
+- Valuteremo anche la possibilità di consentire l'acquisto dei token tramite carta (ad esempio, tramite donazione PayPal), con la consegna fisica dei token da parte di uno di noi.
+
+### 3. Attività della prossima settimana
+
+- Creare una carta intestata con tutte le informazioni dell'azienda, insieme a una presentazione personale.
+- Fare una foto agli scomparti nella sezione dei rulli e iniziare a preparare gli oggetti da inserire al loro interno.
+- Realizzare uno schema dettagliato indicante quali oggetti inserire e come disporli nei rulli.
+
+```markdown
+## Schema degli scomparti dei rulli:
+
+| Scomparto | Oggetto       | Posizione          |
+|-----------|---------------|--------------------|
+| 1         | Prodotto      | Superiore sinistra |
+| 2         | Prodotto      | Inferiore sinistra |
+| 3         | Prodotto      | Centrale           |
+| 4         | Prodotto      | Superiore destra   |
+| 5         | Prodotto      | Inferiore destra   |
